@@ -1,6 +1,6 @@
 # 👋 About Me
 
-I am a Computer Science graduate from the University of California, Irvine. I enjoy making full stack applications. Check out my portfolio website [here](https://steven-rivera.github.io/).
+I am a Computer Science graduate from the University of California, Irvine. I enjoy learning how computers work and making software. Check out my portfolio website [here](https://steven-rivera.github.io/).
 
 # 💻 Tech Stack
 
